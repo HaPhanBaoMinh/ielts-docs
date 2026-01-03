@@ -40,6 +40,7 @@ We use the present simple:
 - fact or generally accepted truths
 - to give instructions or directions
 - to tell story and talk about films and plays
+![[Pasted image 20260103142401.png]]
 ## B.2. Present continuous
 - (+) am/is/are + Ving
 	- He's living in ThaiLand
@@ -64,8 +65,56 @@ The present continuous is not normally used with state verbs because the meaning
 - **description**: appear, contain, look, look like, mean, resemble, seem, smell, sound, taste, weigh
 # C. Grammar exercises
 ## C.1.
+- 1. a
+- 2. a -> b
+- 3. b -> a
+- 4. b 
+- 5. a 
+- 6. a -> b
+- 7. a
+- 8.b 
+## C.2.
+- 1.
+- 2. sees
+- 3. isn't studying - don't think 
+- 4. is he doing - is trying
+- 5. breathe in - give out
+- 6. am wanting -> want (state verb)
+- 7. drive
+- 8. are traveling
+- 9. runs
+- 10. are falling
+## C.3.
+- 2. have (state verb)
+- 3. catch up -> is going up
+- 4. go up -> is catching up
+- 5. know
+- 6. is causing
+- 7. think  (state verb)
+- 8.agree  (state verb)
+## C.4.
+- can see
+- is increasing 
+- is decreasing
 
-# D. New words
+- warms
+- rises
+- changes
+# D. Test practice
+- 1. A
+- 2. C -> A
+- 3. C
+- 4. 7 - 10 -> Tuesday, Friday
+- 5. 6pm - 7:30pm
+- 6. 1
+- 7. level 
+- 8. DOH
+- 9. 11 a.m
+- 10. 011765...
+# Note
+![[Pasted image 20260103142310.png]]
+
+# New words
 
 | English                        | Part of Speech | VietNamese | Note |
 | ------------------------------ | -------------- | ---------- | ---- |
@@ -96,5 +145,26 @@ The present continuous is not normally used with state verbs because the meaning
 | senses                         |                |            |      |
 | possession                     |                |            |      |
 | appear                         |                |            |      |
+| retiring                       |                |            |      |
+| behaves badly                  |                |            |      |
+| tutor                          |                |            |      |
+| breathe in                     |                |            |      |
+| college                        |                |            |      |
+| wild butterfiles               |                |            |      |
+| transport                      |                |            |      |
+| domestic energy concumption    |                |            |      |
+| experts                        |                |            |      |
+| amongst                        |                |            |      |
+| concern                        |                |            |      |
+| catch up                       |                |            |      |
+| rises                          |                |            |      |
+| sauna                          |                |            |      |
+| excellent facilities           |                |            |      |
+| gymnasium                      |                |            |      |
+| tennis courts                  |                |            |      |
+| put time into                  |                |            |      |
+| complimentary                  |                |            |      |
+| enrol                          |                |            |      |
+| instructor                     |                |            |      |
 |                                |                |            |      |
 
